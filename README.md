@@ -31,12 +31,12 @@ Possible applications:
 
 ### Block diagram
 
-<!-- Make sure the path to the picture is correct -->
+<!-- Make sure the path to the picture is correct --> https://www.tinkercad.com/things/eNT70PqF6zT-projet
 ![Block Diagram](schematics/block_diagram.png)
 
 ### Schematic
 
-![Schematic](schematics/kicad_schematic.png)
+![Schematic](schematics/kicad_schematic.png)https://www.tinkercad.com/things/eNT70PqF6zT-projet
 
 ### Components 1. An Arduino Card (such as Arduino Uno or Arduino Nano).
 2. A temperature sensor.
