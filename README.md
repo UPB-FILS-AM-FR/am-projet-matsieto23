@@ -84,3 +84,5 @@ Possible applications:
 [Article 1](https://www.explainthatstuff.com/induction-motors.html)
 
 [Link title](https://projecthub.arduino.cc/)
+
+[video link] https://github.com/UPB-FILS-AM-FR/am-projet-matsieto23/issues/2#issue-2323710552
